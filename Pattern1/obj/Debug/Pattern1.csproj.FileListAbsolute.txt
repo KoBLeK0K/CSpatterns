@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Pattern1\bin\Debug\Pattern1.exe.config
+C:\Users\Admin\source\repos\Pattern1\bin\Debug\Pattern1.exe
+C:\Users\Admin\source\repos\Pattern1\bin\Debug\Pattern1.pdb
+C:\Users\Admin\source\repos\Pattern1\obj\Debug\Pattern1.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Pattern1\obj\Debug\Pattern1.Form1.resources
+C:\Users\Admin\source\repos\Pattern1\obj\Debug\Pattern1.Properties.Resources.resources
+C:\Users\Admin\source\repos\Pattern1\obj\Debug\Pattern1.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Pattern1\obj\Debug\Pattern1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Pattern1\obj\Debug\Pattern1.exe
+C:\Users\Admin\source\repos\Pattern1\obj\Debug\Pattern1.pdb
