@@ -1,0 +1,18 @@
+C:\Users\Admin\source\repos\Fabric Method\bin\Debug\net5.0-windows\Fabric Method.exe
+C:\Users\Admin\source\repos\Fabric Method\bin\Debug\net5.0-windows\Fabric Method.deps.json
+C:\Users\Admin\source\repos\Fabric Method\bin\Debug\net5.0-windows\Fabric Method.runtimeconfig.json
+C:\Users\Admin\source\repos\Fabric Method\bin\Debug\net5.0-windows\Fabric Method.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Fabric Method\bin\Debug\net5.0-windows\Fabric Method.dll
+C:\Users\Admin\source\repos\Fabric Method\bin\Debug\net5.0-windows\ref\Fabric Method.dll
+C:\Users\Admin\source\repos\Fabric Method\bin\Debug\net5.0-windows\Fabric Method.pdb
+C:\Users\Admin\source\repos\Fabric Method\obj\Debug\net5.0-windows\Fabric Method.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Fabric Method\obj\Debug\net5.0-windows\Fabric_Method.Form1.resources
+C:\Users\Admin\source\repos\Fabric Method\obj\Debug\net5.0-windows\Fabric Method.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Fabric Method\obj\Debug\net5.0-windows\Fabric Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Fabric Method\obj\Debug\net5.0-windows\Fabric Method.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Fabric Method\obj\Debug\net5.0-windows\Fabric Method.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Fabric Method\obj\Debug\net5.0-windows\Fabric Method.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Fabric Method\obj\Debug\net5.0-windows\Fabric Method.dll
+C:\Users\Admin\source\repos\Fabric Method\obj\Debug\net5.0-windows\ref\Fabric Method.dll
+C:\Users\Admin\source\repos\Fabric Method\obj\Debug\net5.0-windows\Fabric Method.pdb
+C:\Users\Admin\source\repos\Fabric Method\obj\Debug\net5.0-windows\Fabric Method.genruntimeconfig.cache
